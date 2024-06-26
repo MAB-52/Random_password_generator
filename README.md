@@ -26,6 +26,6 @@ A simple random password generator built with React and Tailwind CSS.
 
 ##Technologies Used
 
--Vite Bundler
--React
--Tailwind CSS
+- Vite Bundler
+- React
+- Tailwind CSS
