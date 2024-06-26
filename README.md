@@ -1,4 +1,5 @@
 # Random Password Generator
+# React + Vite
 
 A simple random password generator built with React and Tailwind CSS.
 
@@ -12,5 +13,19 @@ A simple random password generator built with React and Tailwind CSS.
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/random-password-generator.git
+   
+         git clone https://github.com/MAB-52/Random_password_generator.git
+
+2. Install the dependencies:
+
+         npm install
+
+3. Start the development server:
+
+       npm run dev
+
+#Technologies Used
+
+   -Vite Bundler
+   -React
+   -Tailwind CSS
